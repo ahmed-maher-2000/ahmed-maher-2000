@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedMaher015?tab=repositories](https://github.com/AhmedMaher015?tab=repositories)
-
 - 📫 How to reach me **ahmededu015@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
