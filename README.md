@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaher015&" alt="ahmedmaher015" /></p>
 
-[![AhmedMaher015's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AhmedMaher015&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![AhmedMaher015's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AhmedMaher015&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
