@@ -25,6 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaher015&show_icons=true&locale=en" alt="ahmedmaher015" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaher015&" alt="ahmedmaher015" /></p>
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ahmedmaher015" width="400"/>
-</a>
+
+[![AhmedMaher015's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AhmedMaher015&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
