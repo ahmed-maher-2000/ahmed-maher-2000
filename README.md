@@ -23,5 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher-2000&show_icons=true&locale=en&layout=compact" alt="ahmed-maher-2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-maher-2000&show_icons=true&locale=en" alt="ahmed-maher-2000" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/ahmedMaher015)
-
+[![My LeetCode Stats](https://leetcard.jacoblin.cool/ahmedMaher015)]
