@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maher</h1>
-<h3 align="center">A Backend developer.</h3>
+<h3 align="center">A Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmaherdev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaherdev" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedmaherdev?tab=repositories](https://github.com/ahmedmaherdev?tab=repositories)
 
-- 💬 Ask me about **nodejs**
+- 💬 Ask me about **java**
 
-- 📫 How to reach me **ahmededu015@gmail.com**
+- 📫 How to reach me **ahmedmaher.develop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaherdev&show_icons=true&locale=en" alt="ahmedmaherdev" /></p>
 
-![My LeetCode Stats](https://leetcard.jacoblin.cool/AhmedMaher2000)
+![My LeetCode Stats](https://leetcard.jacoblin.cool/ahmedmaherdev)
 ![Codewars](https://github.r2v.ch/codewars?user=ahmedmaherdev&stroke=COLOR)
 
