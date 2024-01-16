@@ -26,5 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaherdev&show_icons=true&locale=en" alt="ahmedmaherdev" /></p>
 
 ![My LeetCode Stats](https://leetcard.jacoblin.cool/ahmedmaherdev)
-![Codewars](https://github.r2v.ch/codewars?user=ahmedmaherdev&stroke=COLOR)
 
